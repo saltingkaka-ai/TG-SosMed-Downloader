@@ -54,8 +54,12 @@ pip install -r requirements.txt
 
 ### 4. Konfigurasi
 
-Buat file `.env` di folder root:
+Copy file `.env.example` dengan command
+```bash
+cp .env.example .env
+```
 
+Lalu edit file `.env`
 ```env
 BOT_TOKEN=your_bot_token_here
 BOT_USERNAME=your_bot_username
@@ -70,7 +74,7 @@ ADMIN_IDS=123456789
 ### 5. Jalankan Bot
 
 ```bash
-python bot.py
+python3 bot.py
 ```
 
 Bot siap digunakan! 🎉
