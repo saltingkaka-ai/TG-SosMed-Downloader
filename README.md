@@ -21,7 +21,7 @@ Bot Telegram untuk mendownload video, audio, dan gambar dari berbagai platform s
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/social-media-downloader-bot.git
+git clone https://github.com/saltingkaka-ai/TG-SosMed-Downloader.git
 cd social-media-downloader-bot
 ```
 
